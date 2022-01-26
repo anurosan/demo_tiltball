@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/eecs/home/anurosan/4443/Demo_TiltBall_anurosan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/eecs/home/anurosan/4443/Demo_TiltBall_anurosan/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "/eecs/home/anurosan/4443/Demo_TiltBall_anurosan/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,10,11,12,9,6,5,8,7,13,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,483,527,573,432,256,182,371,308,620,116",
+                        "endColumns": "59,43,45,46,50,51,73,60,62,52,65",
+                        "endOffsets": "111,522,568,615,478,303,251,427,366,668,177"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,172,216,262,309,360,412,486,547,610,663",
+                        "endColumns": "59,43,45,46,50,51,73,60,62,52,65",
+                        "endOffsets": "167,211,257,304,355,407,481,542,605,658,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
